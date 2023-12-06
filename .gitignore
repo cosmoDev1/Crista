@@ -2,12 +2,15 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/Crista/FileContentIndex/3b602bc6-088e-4e72-b97e-e3d5f1d6378e.vsidx
-/.vs/Crista/FileContentIndex/fb0158ab-a102-4bb3-9026-f52a381f24f6.vsidx
 /.vs/Crista/FileContentIndex
-/.vs/Crista/v17/.wsuo
-/.gitignore
-/.gitignore
-/.vs/Crista/v17/.wsuo
+<<<<<<< HEAD
 /.vs/slnx.sqlite
+/.vs/Crista/config/applicationhost.config
+/.vs/Crista/v17/.wsuo
+=======
+/.gitignore
+/.vs/Crista/FileContentIndex/b7bc2d6a-f0c9-430a-87d6-ece202af7ac9.vsidx
+/.vs/Crista/config/applicationhost.config
+>>>>>>> 8067cf8dde93eef81b0ac44828c9d0226c0e275f
+/.vs/VSWorkspaceState.json
 /.vs/VSWorkspaceState.json
