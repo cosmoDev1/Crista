@@ -3,7 +3,14 @@
 ################################################################################
 
 /.vs/Crista/FileContentIndex
+<<<<<<< HEAD
+/.vs/slnx.sqlite
+/.vs/Crista/config/applicationhost.config
+/.vs/Crista/v17/.wsuo
+=======
 /.gitignore
 /.vs/Crista/FileContentIndex/b7bc2d6a-f0c9-430a-87d6-ece202af7ac9.vsidx
 /.vs/Crista/config/applicationhost.config
-/.vs/slnx.sqlite
+>>>>>>> 8067cf8dde93eef81b0ac44828c9d0226c0e275f
+/.vs/VSWorkspaceState.json
+/.vs/VSWorkspaceState.json
