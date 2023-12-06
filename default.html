@@ -15,6 +15,34 @@
         .bg-blue {
             background-color: rgb(37, 150, 190)
         }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            bottom: 0;
+            width: 100%;
+            margin-top: 10px
+        }
+
+        .company-info {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        .company-info img {
+            max-width: 100px;
+            margin: 10px;
+        }
+
+        .company-details {
+            text-align: center;
+            margin: 10px;
+        }
+
     </style>
 
 </head>
@@ -102,7 +130,7 @@
 
 
     <!-- Columns -->
-    <div class="container text-center">
+    <div class="container text-center" style="margin-top: 10px">
         <div class="row align-items-start">
             <div class="col-lg-4 col-md-4 col-sm-12">
 
@@ -140,6 +168,19 @@
             </div>
         </div>
     </div>
+
+    <footer>
+        <div class="company-info">
+            <!-- Replace 'company-logo.png' with actual company logo -->
+            <img src="company-logo.png" alt="Company Logo">
+            <div class="company-details">
+                <h3>Company Name</h3>
+                <p>123 Address Street</p>
+                <p>City, State, Zip</p>
+                <p>Phone: 123-456-7890</p>
+            </div>
+        </div>
+    </footer>
 
 </body>
 </html>
